@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
+
 # TOML language support in Atom
 [![OS X Build Status](https://travis-ci.org/atom/language-toml.svg?branch=master)](https://travis-ci.org/atom/language-toml)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/kohao3fjyk6xv0sc/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/language-toml/branch/master)
